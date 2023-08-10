@@ -1,4 +1,6 @@
-const reverseString = function() {
+let word = "hello there";
+
+const reverseString = function(word) {
 
 };
 
